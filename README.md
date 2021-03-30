@@ -15,10 +15,9 @@ Feel free to join our [Discord](http://discord.gg/2gdypBhsye)
 
 ---
 # Description
-Simply show your coordinates next to your minimap
-when you use `/coords`. You can use the same command
+Simply show your coordinates next to your minimap    <br>
+when you use `/coords`. You can use the same command<br>
 again to remove the coordinates from your screen
----
 
 ---
 # My Other Scripts
@@ -29,5 +28,5 @@ again to remove the coordinates from your screen
   - [DevDokus Metabolism](https://github.com/DevDokus/RedM-Metabolism)
   - [DevDokus BountyHunter](https://github.com/DevDokus/RedM-BountyHunter)
   - [DevDokus PlayPiano](https://github.com/DevDokus/RedM-PlayPiano)
-  
+
 ---
